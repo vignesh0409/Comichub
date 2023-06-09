@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18918773626",
+    "project_id": "comichub-75d66",
+    "storage_bucket": "comichub-75d66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18918773626:android:77bbc7316756c62ca67cc3",
+        "android_client_info": {
+          "package_name": "ajiet.ise.dept.comichub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18918773626-l9fih7srp8qdbsmn5fbllii86kfbchsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0W01-69AxiWKF5H46QqzpbvalRJ9I0ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18918773626-l9fih7srp8qdbsmn5fbllii86kfbchsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
